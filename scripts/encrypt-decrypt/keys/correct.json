@@ -1,0 +1,11 @@
+{
+  "chunk_size" : 200,
+  "leaking_rate" : 0.07,
+  "spectral_radius": 1.0,
+  "input_scaling": 0.5,
+  "reservoir_scaling": 0.5,
+  "initial_transient": 0,
+  "random_seed": 99999,
+  "input_connectivity": 0.3,
+  "reservoir_connectivity": 0.3
+}
